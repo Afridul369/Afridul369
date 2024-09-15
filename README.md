@@ -1,7 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Afridul+Hossain+Abir!;" />
 </h1>
-[![](https://visitcount.itsvg.in/api?id=Afridul.dev&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afridul369&label=Profile%20views&color=0e75b6&style=flat" alt="afridul369" /> </p>
+
 # 💫 About Me:
 ⚓ i'm currently working on WEB DEVELOPENT<br>🌱 I’m currently learning REACT<br>👨‍💻 All of my projects are available https://github.com/Afridul369<br>💬 Ask me about Html,Java Script,React<br>📫 How to reach me  afridul.dev@gmail.com
 
